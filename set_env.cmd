@@ -1,9 +1,0 @@
-set POSTGRES_USERNAME=mydb
-set POSTGRES_PASSWORD=snazzy10
-set POSTGRES_HOST=snazzypostgres.cswzdwee9xm8.us-east-1.rds.amazonaws.com
-set POSTGRES_DB=postgres
-set AWS_BUCKET=monotomicro-bucket
-set AWS_REGION=us-east-1
-set AWS_PROFILE=adminpresh
-set JWT_SECRET=testing
-set URL=http://localhost:8100
